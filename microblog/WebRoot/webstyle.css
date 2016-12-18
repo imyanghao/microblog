@@ -1,0 +1,21 @@
+@charset "utf-8";
+/* CSS Document */
+a{ text-decoration:none}
+.loginpage{ margin:100px auto;width:500px; background:#099;min-height:300px;padding-top:100px}
+
+.UserName{ margin-left:50px;}
+.password{ margin-left:50px;}
+.niceName{ margin-left:50px;}
+.login{margin-left:114px}
+.regist{margin-left:114px}
+.main{max-width:1200px;min-height:500px;margin:0 auto}
+.texta{ width:80%; margin:0 auto}
+.texta textarea{ width:100%; height:100px}
+
+.send{float:right;}
+
+
+.webcontent { position:relative;width:80%; margin:50px auto;background:#ddd;min-height:100px}
+.yizan{ position:absolute;bottom:0px;left:0px}
+.zan{ position:absolute;bottom:0px;right:0px}
+.delete{ position:absolute;right:0px}
